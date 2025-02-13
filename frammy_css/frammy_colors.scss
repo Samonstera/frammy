@@ -1,0 +1,111 @@
+// Light-/Darkmode Variablen
+$l_bgd: #000000;
+$dl1: #454545;
+$dl2: #898989;
+$dl3: #dfdfdf;
+$d_bgl: #ffffff;
+
+// pink (Hue: 330, Saturation: 100%, Brightness: 100%)
+$pink_d6: hsl(340, 85%, 10%);
+$pink_d5: hsl(340, 85%, 15%);
+$pink_d4: hsl(340, 85%, 20%);
+$pink_d3: hsl(340, 85%, 30%);
+$pink_d2: hsl(340, 85%, 40%);
+$pink_d1: hsl(340, 85%, 45%);
+$pink_base: hsl(340, 85%, 50%);
+$pink_l1: hsl(340, 85%, 55%);
+$pink_l2: hsl(340, 85%, 65%);
+$pink_l3: hsl(340, 85%, 75%);
+$pink_l4: hsl(340, 85%, 85%);
+$pink_l5: hsl(340, 85%, 90%);
+$pink_l6: hsl(340, 85%, 95%);
+
+// mint (Hue: 170, Saturation: 100%, Brightness: 100%)
+$mint_d6: hsl(170, 100%, 10%);
+$mint_d5: hsl(170, 100%, 15%);
+$mint_d4: hsl(170, 100%, 20%);
+$mint_d3: hsl(170, 100%, 30%);
+$mint_d2: hsl(170, 100%, 40%);
+$mint_d1: hsl(170, 100%, 45%);
+$mint_base: hsl(170, 100%, 50%);
+$mint_l1: hsl(170, 100%, 55%);
+$mint_l2: hsl(170, 100%, 65%);
+$mint_l3: hsl(170, 100%, 75%);
+$mint_l4: hsl(170, 100%, 85%);
+$mint_l5: hsl(170, 100%, 90%);
+$mint_l6: hsl(170, 100%, 95%);
+
+// grey (Hue: 0, Saturation: 0%, Brightness: 58% for original, varying brightness)
+$grey_d6: hsl(0, 0%, 10%);
+$grey_d5: hsl(0, 0%, 15%);
+$grey_d4: hsl(0, 0%, 20%);
+$grey_d3: hsl(0, 0%, 30%);
+$grey_d2: hsl(0, 0%, 40%);
+$grey_d1: hsl(0, 0%, 45%);
+$grey_base: hsl(0, 0%, 50%);
+$grey_l1: hsl(0, 0%, 55%);
+$grey_l2: hsl(0, 0%, 65%);
+$grey_l3: hsl(0, 0%, 75%);
+$grey_l4: hsl(0, 0%, 85%);
+$grey_l5: hsl(0, 0%, 90%);
+$grey_l6: hsl(0, 0%, 95%);
+
+// red (Hue: 0, Saturation: 100%, Brightness: 100%)
+$red_d6: hsl(0, 100%, 5%);
+$red_d5: hsl(0, 100%, 10%);
+$red_d4: hsl(0, 100%, 15%);
+$red_d3: hsl(0, 100%, 20%);
+$red_d2: hsl(0, 100%, 30%);
+$red_d1: hsl(0, 100%, 40%);
+$red_base: hsl(0, 100%, 50%);
+$red_l1: hsl(0, 100%, 55%);
+$red_l2: hsl(0, 100%, 65%);
+$red_l3: hsl(0, 100%, 75%);
+$red_l4: hsl(0, 100%, 85%);
+$red_l5: hsl(0, 100%, 90%);
+$red_l6: hsl(0, 100%, 95%);
+
+// green (Hue: 120, Saturation: 100%, Brightness: 100%)
+$green_d6: hsl(120, 100%, 5%);
+$green_d5: hsl(120, 100%, 10%);
+$green_d4: hsl(120, 100%, 15%);
+$green_d3: hsl(120, 100%, 20%);
+$green_d2: hsl(120, 100%, 30%);
+$green_d1: hsl(120, 100%, 40%);
+$green_base: hsl(120, 100%, 50%);
+$green_l1: hsl(120, 100%, 55%);
+$green_l2: hsl(120, 100%, 65%);
+$green_l3: hsl(120, 100%, 75%);
+$green_l4: hsl(120, 100%, 85%);
+$green_l5: hsl(120, 100%, 90%);
+$green_l6: hsl(120, 100%, 95%);
+
+// yellow (Hue: 60, Saturation: 100%, Brightness: 100%)
+$yellow_d6: hsl(45, 100%, 5%);
+$yellow_d5: hsl(45, 100%, 10%);
+$yellow_d4: hsl(45, 100%, 15%);
+$yellow_d3: hsl(45, 100%, 20%);
+$yellow_d2: hsl(45, 100%, 30%);
+$yellow_d1: hsl(45, 100%, 40%);
+$yellow_base: hsl(45, 100%, 50%);
+$yellow_l1: hsl(45, 100%, 55%);
+$yellow_l2: hsl(45, 100%, 65%);
+$yellow_l3: hsl(45, 100%, 75%);
+$yellow_l4: hsl(45, 100%, 85%);
+$yellow_l5: hsl(45, 100%, 90%);
+$yellow_l6: hsl(45, 100%, 95%);
+
+// blue (Hue: 210, Saturation: 100%, Brightness: 100%)
+$blue_d6: hsl(210, 100%, 5%);
+$blue_d5: hsl(210, 100%, 10%);
+$blue_d4: hsl(210, 100%, 15%);
+$blue_d3: hsl(210, 100%, 20%);
+$blue_d2: hsl(210, 100%, 30%);
+$blue_d1: hsl(210, 100%, 40%);
+$blue_base: hsl(210, 100%, 50%);
+$blue_l1: hsl(210, 100%, 55%);
+$blue_l2: hsl(210, 100%, 65%);
+$blue_l3: hsl(210, 100%, 75%);
+$blue_l4: hsl(210, 100%, 85%);
+$blue_l5: hsl(210, 100%, 90%);
+$blue_l6: hsl(210, 100%, 95%);
